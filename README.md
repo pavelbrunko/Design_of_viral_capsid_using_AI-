@@ -1,4 +1,4 @@
-# Design_of_viral_capsid_using_AI-
+# Design_of_viral_capsid_using_AI
 Работа с научными данными в рамках data-driven подхода
 
 Введение
